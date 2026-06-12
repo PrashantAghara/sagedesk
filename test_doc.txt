@@ -1,0 +1,29 @@
+
+# SageDesk Refund Policy
+
+## Overview
+SageDesk offers a 30-day money-back guarantee on all subscription plans.
+If you are not satisfied with our service, you can request a full refund
+within 30 days of your initial purchase.
+
+## Eligibility
+To be eligible for a refund, you must:
+- Submit a refund request within 30 days of purchase
+- Not have exceeded the usage limits of the free tier
+- Provide a reason for the refund request
+
+## How to Request a Refund
+1. Log in to your SageDesk account
+2. Navigate to Billing settings
+3. Click on Request Refund
+4. Fill out the refund form
+5. Submit and wait 3-5 business days for processing
+
+## Non-Refundable Items
+The following are not eligible for refunds:
+- Add-on purchases older than 30 days
+- Custom enterprise contracts
+- Usage-based billing charges
+
+## Contact
+For refund questions email support@sagedesk.ai
